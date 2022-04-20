@@ -1,1 +1,7 @@
-# java_eclipse_rcp_applications
+# Java Eclipse RCP Applications
+
+  - stock
+
+
+
+  - Overtime for students
